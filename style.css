@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    height: 80px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.navegador{
+    list-style: none;
+}
